@@ -1,0 +1,61 @@
+# Appendix : Overview of Verb Conjugation {#final-appendix}   
+   
+## Overview of Verb Conjugation  :: *Knowing personal endings, tense signs and stems will enable you to decode most verbs*  
+  
+  
+Conjugation of a regular verb like **amo** in the six tenses, two voices and two moods is straightforward and simple. This also gives a model for many other verbs that may vary from the regular pattern. The principal parts of **amo** are **amo, amare, amavi, amatum** (love). These are the first person present active (I love), present infinitive (to love), first person perfect active (I loved), and the supine (to love), from which we get the past passive participle (loved). From the second principal part, we find the present stem **ama-** by dropping the re. Most -a- verbs are completely regular. To indicate the tenses and moods, the tense and mood sign, shown in the table on the left is added to the stem. In the subjunctive present, the *- means that the -a- is changed to -e-. Otherwise, the present has no tense sign at all. There is no future subjunctive, so there is no sign for it.
+In the three tenses of the perfect system, a -v- is added to the present stem to get the perfect stem. For any verb, the perfect stem can be found by dropping the final -i in the third principal part. This regular formation of the perfect stem is found only in the -a- verbs, and a few -e- verbs, such as **delere**, that have a long e where it is marked. Most verbs with a long e have a perfect stem in -u- in place of -v-, such as **moneo, monere, monui, monitum** (warn).
+
+The perfect subjunctive has the same tense sign as the future perfect indicative. This usually causes no confusion, since the tenses are rare ones. In the perfect subjunctive, the first person singular ends in **-erim**, while in the future perfect the ending is **-ero**. A small difference, since **-m** and **-o** are alternative personal endings. There is no future perfect subjunctive.  
+  
+{title="**Tense and Mood Signs**", width="narrow"}  
+|    | **indic** |  **subj** |  
+|---------------------------|  
+|  **pres**  |  --  |  *-  |  
+|  **impf**  |  ba  |  re  |  
+|  **fut**  |  bi  |  (none)  |  
+|  **perf**  |  v --  |  v eri  |  
+|  **plupf**  |  v era  |  v isse  |  
+|  **futpf**  |  v eri  |  (none)  |  
+  
+After adding the tense sign to the stem, the next step is to add the personal ending. There are different personal endings for active and passive voices, shown to the left and right. The ending -o absorbs a preceding vowel, while the **-m** does not. The **-o** appears in present, future and future perfect active, the **-m** everywhere else. **-bi-** becomes **-bu-** before -nt, as you know.  
+
+The perfect tense has its own personal endings, which are shown below. In any verb, they are simply added to the perfect stem obtained from the third principal part. In the third person plural, there are alternative endings, both of which are used, and which mean the same thing.
+
+The passive personal endings are used only in the present system. The perfect passive tenses are all formed by using the participle, as in **amatus sum**, I have been loved, in the same way that the English passive is formed. Some verbs, called deponents, use passive endings with an active meaning, like **sequor, sequi, secutus sum** (follow). The principal parts show that the verb is deponent. The second principal part here is the passive infinitive, not the perfect. There is no difference in the conjugation: **sequor, sequeris, sequetur, sequemur, sequemini, sequentur**.  
+  
+  
+{title="**Personal Endings, Active**", width="narrow"}  
+|    | **sing** |  **plural** |  
+|---------------------------|  
+|  **1**  |  o, m  |  mus  |  
+|  **2**  |  s  |  tis  |  
+|  **3**  |  t  |  nt  |  
+  
+{title="**Personal Endings, Passive**", width="narrow"}  
+|    | **sing** |  **plural** |  
+|---------------------------|  
+|  **1**  |  r  |  mur  |  
+|  **2**  |  ris  |  mini  |  
+|  **3**  |  tur  |  ntur  |  
+  
+{title="**Personal Endings, Perfect**", width="narrow"}  
+|    | **sing** |  **plural** |  
+|---------------------------|  
+|  **1**  |  i  |  imus  |  
+|  **2**  |  isti  |  it  |  
+|  **3**  |  it  |  erunt, ere  |  
+
+
+An important class of verbs has stems in short -e-, such as **emo, emere, emi, emptum** (buy). These verbs are conjugated in about the same way, except that the future does not use the tense sign -bi-, but simply uses the stem ending in e (changed to a in the first person singular, with personal ending -m instead of -o). That is, **emam, emes, emet, ememus, emetis, ement** is future, while the present is **emo, emis, emit, emimus, emitis, emunt**. The -e- changes to -a- in the present subjunctive. Note that the present subjunctive is distinguished by a change in the final stem vowel from -a- to -e-, or -e- or -i- to -a- (**amat, amet, emit, emat**).  
+
+Many -ere- verbs end in -io in the first person present, and use stems in -ia- and -ie-. This is one reason we need the first principal part. **Capio, capere, cepi, captum** (take) tells us that the present is **capio, capis, capit,...,** not **capo, capis, ...,** and the imperfect is **capiebam, capiebas, ...,** not **capebam, capebas, ...**.  
+
+Verbs with stems in -i-, like **audio, audire, audivi, auditum** (hear), are much like **capio**. The stem is **audi-**, adding -a- in the subjunctive singular, -e- before -ba-, and -a- or -e- in the future. Otherwise, it is just like **amo**.  
+
+Verbs are generally classed as belonging to one of four conjugations, depending on the endings of the infinitive. These are I: -are, II: -ere (long e), III: ere (short e), IV: -ire, but the same principles are used in each case, and there is really only one basic way to conjugate a verb, with changes for euphony. The only significant classification is into verbs that form the past stem by adding -v- or -u-, and those that modify the stem vowel, similarly to English verbs that add an -ed (walk, walked), or change the vowel (sing, sang), for the past tense. The first sort are mainly in the first conjugation, the latter sort mainly in the third.  
+
+The Latin verb system is so convenient that it survived in large part in later languages that grew up around it, such as Spanish, Italian and French, although the passive endings disappeared and auxiliary verbs came into use to signal tense and mood. The case structure, however, largely vanished.  
+
+It is much easier to work out what a verb form is saying, than to create it yourself, and the information given here will go a long ways.  
+

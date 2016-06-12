@@ -1,0 +1,66 @@
+# Lesson XIII : More Nouns (US Money) {#lesson-13}  
+  
+## Noun Essentials  :: *More things that are useful to know about nouns, including the fourth and fifth declensions*  
+  
+  
+Cicero said: "To put bounds to both temper and language is a work of no mean ability." **Mediocris ingenii** are in the genitive, modifying the noun-like infinitive **moderari. Non** modifies **mediocris** (not **est**). **Animo** and **orationi** are dative objects of the infinitive, as mentioned in the last lesson.
+
+There are some words that appear so often that special attention should be given to them. Two examples are **dies, diei** (day) and **res, rei** (thing). These appear in many legal phrases, as well as being just generally useful. Both belong to the so-called fifth declension, with stem vowel -e-, but this is not very useful knowledge.  
+  
+{title="**dies, diei (m, day)**", width="narrow"}  
+|  **case**  | **singular** |  **plural** |  
+|---------------------------|  
+|  **nom**  |  dies  |  dies  |  
+|  **gen**  |  diei  |  dierum  |  
+|  **dat**  |  diei  |  diebus  |  
+|  **acc**  |  diem  |  dies  |  
+|  **abl**  |  die  |  diebus  |  
+  
+Most fifth-declension nouns are feminine, and even **die** can be feminine when referring to some definite day in the singular. Many have first-declension parallel forms. When this happens, the fifth-declension forms are seen only in nominative, genitive and ablative singular.  
+  
+{title="**res, rei (f, thing)**", width="narrow"}  
+|  **case**  | **singular** |  **plural** |  
+|---------------------------|  
+|  **nom**  |  res  |  res  |  
+|  **gen**  |  rei  |  rerum  |  
+|  **dat**  |  rei  |  rebus  |  
+|  **acc**  |  rem  |  res  |  
+|  **abl**  |  re  |  rebus  |  
+  
+  
+**Dies** and **res**, and compound words derived from them, are the only important fifth-declension nouns, and they are very important. **Dies** is, unusually, masculine. We can have lots of fun with these two words. What is a "rebus" in English? A sentence spelled out *with things* instead of letters. How about **ante meridiem** (a.m.) and **post meridiem** (p.m.)? A court proceeding dismissed **sine die**? What is **dies irae**? You may have heard of Lucretius' famous work *De rerum natura*. **De** (with abl.) means "concerning," not "from," as in Spanish. Appreciate the cases! It is the "nature of things," not the "things of nature." The **res publicae** were the "public things", later the "republic". **Res ipsa loquitur** involves a deponent, **loquor**, (speak). **Res ipsa** is the subject: "the thing itself." **Loquor, loqui** is third conjugation (**loqui** is used instead of **loqueri**): **loquor, loqueris, loquitur,** etc. I spoke is **locutus sum**. Many fifth-declension nouns also have a first declension form, which is used instead except in the nominative, accusative and ablative singular, which always have fifth-declension forms.  
+  
+{title="**fructus, -us (m, fruit)**", width="narrow"}  
+|  **case**  | **singular** |  **plural** |  
+|---------------------------|  
+|  **nom**  |  fructus  |  fructus  |  
+|  **gen**  |  fructus  |  fructuum  |  
+|  **dat**  |  fructui  |  fructibus  |  
+|  **acc**  |  fructum  |  fructus  |  
+|  **abl**  |  fructu  |  fructibus  |  
+  
+
+There is also a fourth declension, for which the stem vowel is **-u-**. The words all have two or more syllables, and are usually masculine or neuter. (Single-syllable words with stem vowel u are indistinguishable from the third declension.) Unlike the fifth, the fourth declension is rather popular. The nominative singular of the masculine nouns end in **-us**, which should not be taken as second declension. An example is **fructus** (fruit), whose declension is shown in the table. Among the many endings in **-us**, all but the nominative singular have a long vowel. There are also neuter nouns ending in **-us**, but they are third declension, not fourth (e.g., **opus**).  
+  
+{title="**cornu, -us (n, horn)**", width="narrow"}  
+|  **case**  | **singular** |  **plural** |  
+|---------------------------|  
+|  **nom**  |  cornu  |  cornua  |  
+|  **gen**  |  cornus  |  cornuum  |  
+|  **dat**  |  cornu  |  cornibus  |  
+|  **acc**  |  cornu  |  cornua  |  
+|  **abl**  |  cornu  |  cornibus  |  
+  
+
+Neuter fourth-declension nouns, like **cornu, cornus** (horn), are similar except that the nominative and accusative plural are **cornua**, and the dative singular drops the i (as sometimes all fourth-declension nouns do). Remember that the nominative and accusative of neuter nouns are always the same, and the plurals end in **-a**. The declension is shown in the table. The word **domus, domus** (home) had various case forms at different times. Classically, it was declined like **fructus**, except that the ablative singular was **domo**, and there was a special locative form, **domi**, meaning "at home," though **domui**, the dative, could be used as well. The genitive plural was **domorum**, as if it were second declension. "To home" was accusative, **domum. Manus, -us** (hand) is another useful noun; its peculiarity is that it is feminine. The gender was retained in Spanish, though it ends in -o. It is not difficult to recognize the cases of fourth and fifth declension nouns, which are very similar to the third declension.
+
+Now we can take up some words that are easily confused. **Annus, -i** is "year", and **annuus, -a, -um** means "annual" or "yearly". The **a** is short. Also with a short **a** is **anus, -us** (f), a fourth-declension word meaning "old woman". With a long **a, anus, -i** is a "ring". The diminutive **anulus, -i** is a "finger ring". The similar English word annulus has too many n's, so it looks like a little year, not a little ring. If you are thinking of another similar word, it is a typical Latin euphemism, where a mentionable word is used for an unmentionable object. This is very typical of Latin; certain other body parts acquired a series of aliases in this way, changed as each one came to cause snickering from the boys. A similar process has occurred in Spanish, for example with words referring to anything round. The Romans were actually rather prudish, and offended by licentious behavior and by people having too much fun. They made several of the livelier Greek observances illegal. Certain Latin words have come into English as medical or technical terms, and so have acquired reputations they did not enjoy in Latin. With your Latin dictionary and a little imagination, you can form accurate translations of any words you find in extracts describing native sexual habits, which prudish missionaries did not like to describe in plain language.
+
+You will now be able to recognize most of the noun cases you meet, though there is a large number of special cases. Sometimes accusative singulars end in **-im** rather than **-em**, accusative plurals in **-os** rather than **-as**, and genitive plurals variously in **-ium** or **-um**. These are remnants of earlier language habits, of course.
+
+A use of the genitive that you will be familiar with from English is the partitive genitive, which expresses the whole of which something is the part. For example, **unus ursorum huc venit** means "one of the bears is coming hither" (**huc; hic** means here without motion implied). **Ursorum**, of the bears, is the *partitive genitive*. **Satis eloquentiae, sapientiae parum,** said Seneca: enough (of) eloquence, of wisdom too little, a common failing of politicians.
+
+A **baculum, -i** is a "walking stick" or similar object. Every Mountain Man will find one useful out in the woods, and occasionally at the tavern. A **bacillum, -i** is a "small stick" like a symbol of office. This is an example of a *diminutive*, as "cigarette" is a diminutive of "cigar." There are many ways to form diminutives in Latin, of which this is only one. Another example is **porcella**, a little **porca, -ae**. We also find **porcula** or **porculus**, "sow" and "hog," which are also really diminutives of **porcus, -i,** like **baculum**, where the word from which it was formed has disappeared. While **porca** ("gross sow") might be insulting, **porcella** ("my little piglet") could be endearing. What we call a "bacillus" is something else, a microbe shaped like a little stick that can give one tuberculosis. We also have microbes called "cocci" that you can catch in hospitals, but a **coccum** is the berry of the scarlet oak. From it, a scarlet dye was made that turned out really to come from a small insect infesting the berry. The microbes should properly be "cocca" since the word is neuter, but anyway the little spheres sticking together in strings were so-called because they stained red when prepared for the microscope, I believe.
+
+There is Latin on U.S. Federal money. On coins, **e pluribus unum** appears; **unum** is neuter, and what it refers to is not clear to me. **E pluribus una** might be better ("Gentlemen, shall we join the ladies?"). On the $1 note, the Latin is in the Great Seal and its Masonic symbolism. **Coeptis** is a case of **coeptum, -i,** a work begun or undertaken. **Annuit** is from **annuo, annuere, annui** (3rd conjugation, nod or assent). **Ordo, ordinis** (m, series) and **saeculum, -i** (n, century) are the other words we have not yet met. What is meant by these mystic inscriptions? The early mountain man would have used Spanish dollars, pieces of 8 reales often cut into eighths, or "bits" as money. All the Federal money was in bank vaults (if issued, it would have disappeared in hoards or have been exported, since the coins were too heavy for their value), so people had to make do. There was plenty of Spanish silver, but the U.S. had no silver or gold yet. The term "Federal money" is in distinction to money issued by the States, which was often in pounds, shillings and pence, not in the new Federal unit, the Eagle ($10), divided decimally. Lack of coinage money was compensated by banknotes, but small change was a persistent problem until the 1860's.  
+

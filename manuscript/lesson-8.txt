@@ -1,0 +1,66 @@
+# Lesson VIII : This, That, and Who (Vergil) {#lesson-8}  
+  
+## This, That, and Who :: *Introducing pronouns, relative and demonstrative, and comments on word order*  
+  
+  
+The character in Terence's play was saying that he couldn't let go, or things would get worse; that he was "holding a wolf by the ears." Note the word order. Ears and wolves are the most important things here, so they have gone to the emphatic positions, leaving **teneo** in the middle. In high school Latin, verbs went to the end just as milk is always at the back of the supermarket, in the proper place. This is just not so. Try to appreciate Latin word order: it is a matter of style, not grammar, making the language supple and expressive. There is more about this toward the end of the lesson. The effect of word order comes out dramatically in poetry; there is nothing in English like it. Unfortunately, you will have to learn a lot of Latin before you can appreciate poetry; poetry is far beyond the scope of this introduction.  
+  
+It is very useful to be able to point things out: this one, that one, this that preceded, this that is to follow, and so forth. In Latin, the most useful words for this are **hic** (this) and **ille** (that). They are adjectives at heart: **hic ursus, ille lupus,** but can also be used alone, and then become a new kind of noun, a *pronoun* that only points out, and does not describe. We also look at the relative pronoun here, **qui**, which means who, whom, what, which, and so on, pointing out some thing or person under discussion. Remember that the case of **qui** will depend on its use in its own clause, a requirement often violated in English (as in "the man who he pointed to ran away" or "give this to whomever is worthy"). All three of these words are very useful, and you have no doubt encountered various cases of them in your daily life. Note that the pronoun/adjective **hic** (this) and the adverb **hic** (here) are written the same way.  
+  
+As card-carrying noun-adjectives, pronouns have a lot of cases. Those for **hic, ille** and **qui** are given in the following tables. By now, you know what is going on, so you should not be dismayed by the size of the tables, and should not start memorizing willy-nilly.  
+  
+  
+{title="**hic, haec, hoc (this)**", width="default"}  
+|    | **singular** |    |    |  **plural** |    |    |  
+|---------------------------------------|  
+| **case** | **masc** | **fem** |  **neut** | **masc** | **fem** |  **neut** |  
+| **nom** |  hic  |  haec  |  hoc  |  hi  |  hae  |  haec  |  
+| **gen**  |  huius  |  huius  |  huius  |  horum  |  harum  |  horum  |  
+| **dat**  |  huic  |  huic  |  huic  |  his  |  his  |  his  |  
+| **acc**  |  hunc  |  hanc  |  boc  |  hos  |  has  |  haec  |  
+| **abl**  |  hoc  |  hac  |  hoc  |  his  |  his  |  his  |  
+  
+  
+
+{title="**ille, illa, illud (that)**", width="default"}  
+|    | **singular** |    |    |  **plural** |    |    |  
+|---------------------------------------|  
+| **case** | **masc** | **fem** |  **neut** | **masc** | **fem** |  **neut** |  
+| **nom** |  ille  |  illa  |  illud  |  illi  |  illae  |  illa  |  
+| **gen**  |  illius  |  illius  |  illius  |  illorum  |  illarum  |  illorum  |  
+| **dat**  |  illi  |  illi  |  illi  |  illis  |  illis  |  illis  |  
+| **acc**  |  illum  |  illam  |  illud  |  illos  |  illas  |  illa  |  
+| **abl**  |  illo  |  illa  |  illo  |  illis  |  illis  |  illis  |  
+  
+  
+
+{title="**qui, quae, quod (that, which)**", width="default"}  
+|    | **singular** |    |    |  **plural** |    |    |  
+|---------------------------------------|  
+| **case** | **masc** | **fem** |  **neut** | **masc** | **fem** |  **neut** |  
+| **nom** |  qui  |  quae  |  quod  |  qui  |  quae  |  quae  |  
+| **gen**  |  cuius  |  cuius  |  cuius  |  quorum  |  quarum  |  quorum  |  
+| **dat**  |  cui  |  cui  |  cui  |  quibus  |  quibus  |  quibus  |  
+| **acc**  |  quem  |  quam  |  quod  |  quos  |  quas  |  quae  |  
+| **abl**  |  quo  |  qua  |  quo  |  quibus  |  quibus  |  quibus  |  
+  
+  
+
+Note that **quae** is neuter nominative and accusative plural, as well as feminine nominative singular and plural. The term "quorum" for the required number of members present to allow effective action in a meeting is just the number "of which" -- of the total membership. The "status quo" is the state which (existed before the war).  
+  
+Now you can construct a large number of useful, even complicated, sentences in Latin. For example: **ursus quem vir cultro necabit ibat in illius agricolae agrum**. The bear that the man will kill with a knife is going into that farmer's field. You can see how useful your Latin is going to be while traveling. **Ille** is often used where we would use "the," and gave rise to la, el, le, il, lo, and other words for "the" in modern vernaculars. Greek already had a definite article, that is a great help to students.  
+  
+There is another word for "that" originally referring to something near the person addressed, **iste, ista, istud,** declined like **ille**. It lost that connotation, and became a pejorative demonstrative, as in "that contemptible" or "that disgusting" thing or person. **Iste homo mendax (est)** meant "that rogue is a liar."  
+  
+In most grammars, you will find some rules of Latin word order that you can safely neglect here. They are for the benefit of young scholars who otherwise would use English word order. Word order is subordinate to emphasis and style in Latin and has little effect on meaning. In English, word order determines meaning. In German, word order is prescribed by rule. None of this in Latin! In Latin, the subject generally precedes the predicate, quite logically. Modifiers generally go somewhere near the words they modify. They precede if they are important to the meaning, but follow when incidental, as in **bonus vir**, "the good man," but **domus alba**, "a white house." The White House would be **Alba Domus**. Since there is no definite article in Latin, word order could be a help in expressing an equivalent meaning. Sometimes a noun and its adjective are separated to mark off a group of associated words, making a kind of "sandwich," as is mentioned elsewhere. Endings help to tie them together, something impossible in English. Your guide to word order should be what you observe in classical Latin prose authors.  
+  
+Genitives often precede, because they are generally limiting. From Vitruvius, **...sub avis cauda pedes equi sunt subiecti.** --"below the bird's tail the feet of the horse are concealed" -- here, both positions are found in the same sentence. Other examples from the same source are **equi ungulae, Andromedae pedibus, Aquarii genua, Cephei manum, ab solis impetu,** but also **sub rotam solis, sub radios solis, ad caput et pectus leonis.** ["hoofs of the horse, to the feet of Andromeda, knees of Aquarius, hand of Cepheus, from the sun's impetus" and "under the sun's disc, under the rays of the sun, to the head and breast of the lion." Incidentally, what case are **caput** and **pectus**? Their nominative plurals are **capita, pectora**.] The English prepositional phrase "of the" is much less vivid than the genitive in either Latin or English. The preceding position is emphatic, the following position is noncommittal. Mere possession is expressed by the dative, not the genitive.  
+  
+Possibly the most familiar "school rule" is that verbs go to the end of a clause. The slightest familiarity with Latin literature shows that this is not true. After describing a test for the presence of water, Vitruvius says: **Is locus habebit aquam**, "This place will have water." [What the meaning of is is is treated in the next lesson] In such simple transitive sentences, the word order subject-verb-object is as natural in Latin as in English. In simple passive sentences, the verb often either begins the sentence or comes early, preceded only by adverbial modifiers, and is followed by the subject. Infinitives quite often go to the end when they are introduced by a finite verb in the middle of the sentence. In more complicated sentences, or those with long predicates, the verb does indeed gravitate to the end, since this is a position of emphasis. A verb at the end is not lost in the bushes. Where the action of the verb is the main point of the sentence, and a number of reasons and conditions must be established, it is usual to put all this matter first, building up tension and expectation, and then to resolve it by the verb at the end. These are matters of rhetoric, however, not grammar. So, arrange your Latin sentences as seems best to you, considering emphasis and balance, and you will be fine. If you cling to English word order, your Latin will be contorted and clumsy, but will still be Latin. Bad Latin, after all, became a world language in medieval Europe. The Irish wrote the worst Latin of all.  
+  
+Sometimes two nouns will stand side by side in the same case, such as **Venus dea**, "the goddess Venus." Usually the meaning of one noun (**dea**) contains the other (**Venus**). The nouns are said to be in *apposition*. The words must agree in case, and as far as possible in gender and number. There may be more than two nouns in apposition. This is unlike the use of a noun as an adjective in English, as in "horse feathers" or "house mother." Latin cannot do this; you must alter the describing word to make it an adjective: **pennae equinae** or **mater domestica**.  
+  
+When Aeneas (in the Aeneid) says to the Sibyl that he wants to visit the underworld, she tells him that it's easy to get there, but hard to get back. In Vergil's words, **hoc opus, hic labor est**. You have just read a scrap of great poetry!   
+**Opus, operis** is neuter; **labor, laboris** is masculine. They mean job and difficulty, respectively.   
+  
+

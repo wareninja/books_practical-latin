@@ -1,0 +1,63 @@
+# Lesson VII : Third Declension (Terence) {#lesson-7}  
+  
+## Third Declension :: *The third declension is the big one*  
+  
+  
+The first declension was brought to you by the letter "a," which was usually visible. The second was sponsored by the letter "o," which was not. The "o" was absorbed by the endings except in things like **puero** or **puerorum**. The other 21 letters give you the third declension, which gives an idea of its importance. Some people assert that the letter "u" gives the fourth declension, and "e" the fifth, but this is superfluous for our purposes. For us, these will be just special cases of the third declension, as they really are.  
+  
+  
+{title="**laus, laudis (f)**", width="narrow"}  
+|  **case**  | **singular** |  **plural** |  
+|-----------------------------------------|  
+| **nom** |  laus  |  laudes  |  
+| **gen**  |  laudis  |  laudum  |  
+| **dat**  |  laudi  |  laudibus  |  
+| **acc**  |  laudem  |  laudes  |  
+| **abl**  |  laude  |  laudibus  |  
+  
+  
+You've already seen the word **laus** (praise) in the case **laude** (ablative). It is a habit of the third declension for the real stem not to be obvious in the nominative singular, but to appear in the genitive and everywhere else. So we usually remember a word as, for example, **laus, laudis** so we know the stem. Your job is only to recognize a case, not form it, and you will find this easy. **Laus** is declined in the table. What does **laus Deo** mean?
+Decline **fraus, fraudis** (fraud, feminine) We have already used **pumex, pumicis** (pumice) which happens to be hermaphroditic - you can make it either masculine or feminine. **Canis, canis** (dog) can also be masculine or feminine; it depends on the dog.  
+  
+The nominative singular typically ends in s, often in the form of x. The -um is genitive plural (compare **-arum** and **-orum**), and the very memorable **-ibus** is dative and ablative plural. Decline **pes, pedis** (foot). This gives us the useful case **pedibus**, meaning on or by foot. When somebody asks you how you came, reply in Latin: **pedibus**! The ablative case by itself, without any preposition, tells how or with what something was done. How would you say: the man kills the bear with a knife? Answer: **vir ursum cultro necit**. The fact that **culter** is there in the ablative says that it was used for the deed.  
+  
+One very useful class of feminine nouns ends in **-io, -ionis**. For example, **natio, nationis** (birth). This is a special case of nouns ending in -o, which are masculine unless they end in -io, -do, or -go, however: try **leo, leonis** (lion), or **homo, hominis** (human being), which are masculine. **Homo** does't mean a male specifically; it is used when sex is not an issue. **Mulier, mulieris** (f) is the feminine counterpart of **vir, viri,** which do mean "woman" and "man". There are many variations and exceptions in the third declension, but recognition of the case is usually not too difficult. For example, **titio, titionis** (firebrand) is masculine, not feminine as you might expect. You might find this word amusing to use.  
+  
+  
+{title="**mare, maris (n)**", width="narrow"}  
+|  **case**  | **singular** |  **plural** |  
+|-----------------------------------------|  
+| **nom** |  mare  |  maria  |  
+| **gen**  |  maris  |  marum  |  
+| **dat**  |  mari  |  maribus  |  
+| **acc**  |  mare  |  maria  |  
+| **abl**  |  mari  |  maribus  |  
+  
+  
+Remembering that neuter nouns are the same in nominative and accusative, and that the nominative plural ends in -a, decline **nomen, nominis** (name). **Opus, operis** (work) is another neuter. The ending -us is often third or fourth declension, not second; this is why you have to recall the genitive. **Opera, -ae** (f) means pains, effort, exertion, work, leisure, help, workman. **Operae** (plural) can be a gang or a hired mob. This is the kind of opera you go to, not an opus. An **onus, oneris** is a load or burden, and has become an English word. The word **mare, maris** (sea) is declined as in the table. Note that the genitive plural is not **marium**, though the ablative singular is **mari**. Actually, the genitive plural is found in only one place in poetry, where the -i- may have been omitted just to suit the metre. Poets are allowed to do things like this. If you have a need for the word, you might as well use the regular **marium**, as Romans probably did.  
+  
+There is a rule, not a very strict one, that nouns with the same number of syllables in nominative and genitive have -ium in the genitive plural, while those that have an additional syllable in the genitive have -um. **collis, collis** (m, hill), for example, has **collium. canis, canis** (m, dog), **panis, panis** (m, bread), however, have -um. **animal, animalis** (n, living being) is just like **mare, except that it has -ium. Confusing? Sometimes even Romans didn't know whether to use -um or -ium! All these nouns can be considered as having a stem ending in -i, which is why "i" is so popular with them. Note also that the ablative singular ends in -i, not -e, for such nouns. The nouns in -is, -is, which are numerous, are never neuter.  
+  
+  
+{title="**felix, felix**", width="narrow"}  
+|  | **singular** |  |**plural** |  |  
+|  **case**  | **m&f** |  **neut** | **m&f** |  **neut** |  
+|-----------------------------------------------------------|
+| **nom** |  felix  |  felix  |  felices  |  felicia  |  
+| **gen**  |  felicis  |  felicis  |  felicium  |  felicium  |  
+| **dat**  |  felici  |  felici  |  felicibus  |  felicibus  |  
+| **acc**  |  felicem  |  felix  |  felices  |  felicia  |  
+| **abl**  |  felici  |  felici  |  felicibus  |  felicibus  |  
+  
+  
+This new class of endings can be applied to adjectives, as well. Happily, the masculine and feminine endings are the same (there is no alternative!), and the neuter only differs in the nominative and accusative. Take **felix, felix** as an example. Its declension is shown in the table. It is called an adjective of one ending. Note that an extra i has sneaked in here and there (this is an -i- stem), but there are really not very many different forms. See if you can decline **fidelis, fidele** (faithful). There is no sneaky i in **fidelis**, which is an adjective of two endings.  
+  
+Try to express **latine** (ablative; "with latin"): the happy (felix) farmer loves the faithful (fidelis) dog. This is: *tama menac meledif aliocirga xileF*. The Latin is written backwards so you have a chance to make up a sentence without being prompted by the answer.  
+  
+As they give rise to different declensions in nouns, different stem vowels give rise to different conjugations in verbs. The long e gives us the second conjugation, which is just like the first. Examples are **timeo** (fear), **teneo** (hold), **habeo** (have), **video** (see), **maneo** (remain, stay), **moveo** (move), **debeo** (owe), **doleo** (grieve, suffer), **terreo** (frighten), **augeo** (increase), **doceo** (teach) and **moneo** (warn). Note how many cognates you can find in English to help you remember these verbs! They go **timeo, times, timet,** etc. They all have infinitives ending in -ere where the first e is long, and remains as a short e when the endings are added. They are conjugated like the first conjugation. This is not a very big bunch of words, but it's convenient to introduce them here. Write: the small farmer fears the large bear. *musru mungam temit alocriga suvraP*. Backwards Latin is easy to say, it seems!  
+  
+**Habeo** and **teneo** both mean "have, hold", but the first is more figurative, the latter more concrete. **Habeo** is not a helping verb in Latin that can make past tenses when combined with the past participle, nor does it imply necessity or compulsion. There are better ways to say both these things. In Spanish, **teneo** has come to mean "have, hold" while **habeo** is used exclusively as a helping verb, and no longer means to have or hold. In English, "to have" is used in both ways.  
+  
+Here is a quote from Terence, the early poet and playwright: **auribus teneo lupum**. You may be able to figure this one out with no help; it's not because its so easy, it's because you are already learning some Latin. **Auris, auris** (f) is ear, of course. What does the case imply?  
+  
+

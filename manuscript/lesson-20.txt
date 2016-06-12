@@ -1,0 +1,174 @@
+# Lesson XX : Professional Latin {#lesson-20}  
+  
+## Professional Latin  :: *Latin surrounds us in the professions and sciences*  
+  
+  
+This lesson is called Professional Latin, because it reviews Latin terminology in professional and intellectual fields. Words derived from Latin, or even actual Latin words, appear often in the sciences, mathematics and law. In partnership with Greek, it is the principal resource for the creation of technical terms. English derives a large fraction of its vocabulary from Latin, either directly, indirectly, or as cognates. There is much material in this lesson for word study. Try to recall all the English words that are similar to the Latin. This aids your understanding and vocabulary in both languages.  
+  
+  
+C> **Astronomy**  
+
+Stars have been identified by proper names since antiquity, but this means of identification was cumbersome and uninformative. In 1603, Johann Bayer introduced a more meaningful system that is still in use today for the brighter stars. Bayer assigned each bright star in a constellation a Greek letter, beginning with alpha and proceeding through the alphabet to omega. There were enough letters for 24 stars in each constellation. Sometimes the stars were lettered in order of brightness, sometimes by position, and sometimes arbitrarily. The letter was followed by the name of the constellation in the genitive. For example, the brightest star in Virgo, Spica, was called alpha Virginis. All you have to know for this Latin is how to form the genitive of the Latin name for each of the 88 constellations that are now defined, something you should now be able to do very easily.
+
+Features of the Moon are named in Latin. **Mare, maris** (n) is sea; the genitive plural is **marum**, not **marium**, which would be expected by analogy with similar words. We already know **mons**, and **oceanus** gives no difficulty. **Palus, paludis** (f) is a swamp; **sinus, -us** (m) is a bay -- note the fourth declension! There is no water on the Moon; these are fanciful descriptions of lava plains. **Vallis, -is** is a valley. Words like this, that are the same in nominative and genitive singular, have a genitive plural in **ium: vallium**. A **vallum, -i** is something completely different, a palisade, a wall made from vertical logs (think wall, not valley). A **vallus, -i** is a stake. The Llano Estacado of Texas is **Planities Vallata. Planitia** and **planities** (f) are alternatives, of first and fifth declensions, respectively. **Rima, -ae** is a fissure or cleft. **Rupes, rupis** (f) is a cliff. **Crater, crateris** (m) or **cratera, -ae** (f) is a basin or wine-bowl, a Greek word adopted into Latin.
+
+In *Sundials: History, Theory, and Practice* (Chapter Ten) RenÃ© Rohr gives a list of sundial quotations in Latin that is right down our alley, including the familiar **carpe diem**, which he correctly translates "Use well the day."  
+
+  
+
+C> **Biology**  
+
+Animals and vegetables were arranged by Aristotle's classification until it proved inadequate to the task. In 1758, Carl Linnaeus proposed a new taxonomy in which each animal or vegetable was identified by a *binomial*, such as **Ursus horribilis** (the grizzly), in which the first word identified the genus, and the second word the species. The words were either Latin or Greek, and agreed in gender and case. In zoology the two names can be the same, as **Gorilla gorilla**, the gorilla. In botany they cannot. There is no information content in these names; they are mere identifiers. For example, the Monarch butterfly is called *Danaus plexippus*, meaning something like Greek horse-driver. These are Greek words in Latin transliteration, which is very common. Sometimes the second name recalls the first person to identify the species, as in Speyeria edwardsi, a fritillary butterfly that was first popped into Dr. Edwards's bottle. Speyeria seems also to be a proper name here, apparently used for the fritillary family.
+
+Latin was very convenient to use because it was commonly understood by all scientists, and was the standard language for international scientific communications. Isaac Newton's ***Principia Mathematica Philosophiae Naturalis***, published in 1685, was, of course, in Latin. It was a great loss to the speakers of less popular languages when Latin fell into disuse as a scientific language around the end of the eighteenth century.  
+
+  
+
+C> **Chemistry**  
+
+The symbols for some chemical elements are taken from Latin words, not from English. The names of the elements, except for some common metals, are all modern. The symbols for sodium (Na), potassium (K) and tungsten (W) are from German. Others, such as barium, (Ba), neon (Ne), xenon (Xe) or krypton (Kr) are taken from Greek. Many chemical names and terms of modern creation have Greek or Latin roots.  
+  
+- Antimony, Sb: **stibium, -i** (n), not the metal, but the black sulphide, Sb2S3, used as mascara  
+- Carbon, C: **carbo, carbonis** (m), charcoal  
+- Calcium, Ca: **calx, calcis** (f), lime, chalk  
+- Copper, Cu: **cuprum, -i** (n), copper, from **Cyprus, -i** (f) Cyprus, known for copper and Aphrodite, who was also called **Cypris, Cypridus** (f). Classically, copper was **aes, aeris** (n), pronounced "ice, iris," and copper alloys, such as bronze, were also included. Don't confuse with **aer, aeris** (m), air. Here, the a is long, as is the e in the nominative, and the a and e are pronounced separately ("ah-ear, ah-erris"). Though spelled the same, the gender shows which is which.  
+- Gold, Au: **aurum, -i** (n) gold  
+- Iron, Fe: **ferrum, -i** (n) iron  
+- Lead, Pb: **plumbum, -i** (n) lead  
+- Mercury, Hg: **hydrargyrum, -i** (n), water-silver  
+- Radium, Ra: **radius, -i** (m) stick, rod, beam, ray  
+- Silicon, Si: **silex, silicis** (m) flint  
+- Silver, Ag: **argentum, -i** (n) silver  
+- Tellurium, Te: **tellus, telluris** (f) earth, ground  
+- Tin, Sn: **stannum, -i** (n) tin  
+  
+
+C> **Physics**  
+
+Physics abounds with Greek terms for the same reason that Geology does, but we can still find numerous words from Latin. The words have new meanings, but the classical meanings are suggestive. Everyone knows about the *nucleus* of the atom, which has the plural *nuclei*. This is **nucleus, -i** (m) "nut" or "kernel." A nucleus can undergo *fission* or *fusion*, which are derived from an interesting pair of verbs that are not quite opposites: **findo, findere, findi, fissum,** "split" or "divide," and **fundo, fundere, fusi, fusum,** "pour" or "cast" (metal). There are adjectives **fissilis, -e,** "easy to split" and **fusilis, -e,** "molten," and nouns **fissio, fissionis,** "dividing, splitting" and **fusio, fusionis,** "outpouring," both feminine.
+
+*Vector* comes from **vector, vectoris** (m), "carrier; rider, passenger." *Tensor* comes from the verb **tendo, tendere, tetendi, tensum**, "stretch, spread or strain" since it is a quantity used to describe tension and compression. *Torque* comes from **torqueo, torquere, torsi, tortum,** "twist" or "turn." *Viscosity* has its origin in **viscum, -i,** (n), "mistletoe" or "bird lime." Bird lime was a sticky substance used to catch birds. The verb **visco, viscare** means "make sticky." A *capillary* tube used to measure viscosity recalls **capillus, -i,** "hair." **Liquor, liquoris** (m) is "fluidity" or "liquid," and poetically "sea." There are several verbs meaning to melt: **liquo, liquare; liquesco, liquescere; liquefacio, liquefacere.**
+
+Power or force is, in Latin, **vis, vim, vi, vires** (f), where the cases shown are nominative, accusative, ablative and nominative plural. The other cases are not used. *Vis viva*, "living force," was the old name for what is now called energy. **Velocitas, -tatis** (f) was "speed" but now is strictly directed speed. The related words **velociter**, "rapidly," and **velox, velocis** (an adjective), "fast." *Momentum* is now the product of mass and velocity, but **momentum, -i** (n) was "movement, change," or, figuratively, "cause" or "influence." **Nullius momenti** meant "of no account." *modulus*, as in elastic modulus, was originally **modulus, -i** (m) "measure." *Frequency* is from **frequens, frequentis,** "crowded, regular, repeated, or frequent." A **frequentia, -ae** (f) was a "crowd" or "throng." **Potentia, -ae** (f) was "power, force, efficacy" and became *potential*.  
+
+  
+
+C> **Mathematics**  
+
+The names for the four fundamental operations of arithmetic come from Latin verbs: **addere, subtrahere, multiplicare and dividere**. *Quotient* is from **quotiens?**, "how many times." *Remainder* is from **remaneo, remanere, remansi** (2nd conj.), "remain, stay behind." The common prefix **re-** does not always mean "back" or "again," but is usually an intensifying prefix (as in *frijoles* **re**fritos, or in **re**search). *Sum* is from **summa, ae** (f), "the whole, main part, main issue." **Plus, pluris** is the adjective "more," the comparative of "much," and **minus** is the adverb "less." **minuo, minuere, minui, minitum** means "chop up, reduce, lessen." *Fraction* comes from **frango, frangere, fregi, fractum** (3rd conj.), "break, shatter." *Integer* is pure Latin: **integer, integra, integrum,** "whole, complete, sound."
+
+*Number* itself is from **numerus, -i** (m), basically means "number," but it has several figurative meanings, such as "troop" (of soldiers), "cipher" (secret writing), and, in the plural, "mathematics." **Ratio, rationis** (f) is another word with many meanings. It can refer to reckoning, meaning "calculation," to relations, meaning "method" among other things, including the modern meaningm and to reasoning, meaning "science" or "lore."
+
+Although geometry is dominated by Greek terms, some are from latin. *Normal*, meaning "at right angles," is from **norma, ae** (f), "carpenter's square." **Triangulum, -i** (n) simply translates the Greek ***trigonon***, and was already in classical Latin, where nearly all mathematical terms were either translated or borrowed from Greek. In the same category is **circulus, -i**, from ***kuklo***s. This is only a small sampling; most are relatively obvious and can be looked up in a dictionary. Mathematics was always done in Greek in classical times, no matter what language a person spoke. No distinction can be made between Greek and Roman intellectual culture. Greek was, in fact, the usual *lingua franca* (Italian, not Latin), as we have mentioned elsewhere.  
+
+  
+
+C> **Medicine**  
+
+Medicine is replete with Latin terms for parts of the body, **materia medica**, observations, instructions, and other things needing classification and communication. Latin terms make terminology precise and unambiguous. In many cases, the Latin word earlier had a more general meaning. For example, **femur, femoris** (n, thigh) means the thigh *bone* in medical Latin, and **scapula, -ae** (f, shoulder-blade) means, well, shoulder-blade. **Umerus, -i** (m, shoulder) now means upper-arm bone, **humerus** (not the funny bone). Latin dropped h's as time passed, first in the rural areas, and this affected the spelling. These quasi-Latin words sometimes take Latin plurals, especially the neuter ones, but normally do not decline.
+
+Besides making terminology more precise, Latin was also a help in impressing the uninitiated, and as a kind of secret language. In this aspect, it was used for writing prescriptions and similar notes.  
+
+  
+
+C> **Dentistry**  
+
+Words in dent- come from **dens, dentis** (m, tooth), but words in dont-, like periodontist, come from the Greek for tooth instead. The two sides of a tooth are termed *buccal* from **bucca, -ae** (f, cheek) or *lingual*, from **lingua, -ae** (f, tongue). *Occlusal* comes from **occludo, occludere, occlusi, occlusum** (shut up, close) and refers to the biting surface of the tooth. *Distal* comes from **disto, distare** (stand apart, be distant, be remote), while *proximal* comes from **proximus**, the superlative of the adverb **prope** (near), meaning "nearest". Tooth decay is *caries*, from the fifth-declension **caries, cariei** (decay, rottenness). The gums are the *gingiva*, from **gingiva, -ae** which means, well, gum. *gingivitis* mixes Latin and Greek.  
+
+  
+
+C> **Meteorology**  
+
+The weatherperson often speaks of "virga" in Denver, where rain sometimes evaporates before it reaches the ground. **Virga, -ae** (f) is a "green twig" or "stick." The word's also used for a "broom," made from a bunch of twigs tied to a handle. The rain falling from the base of a cloud looks like a broom, since it's usually blown sidewise by the wind.
+
+The names of the common types of clouds are taken from **cumulus, -i** (m), heap; **cirrus, -i** (m), curl; **stratum, -i** (n) blanket; **nimbus, -i** (m) storm or rain (-cloud). The last was used in classical times; the other cloud names were assigned in the 18th century. When air is pushed up by air expanding from below, a thin layer of cloud called a "pileus" may be formed. A **pilleus** or **-um, -i** (m or n) was a felt cap given as a mark of manumission. Useful adjectives come from **altus, -a, -um,** high (and also deep, as in **altum mare,** the deep sea) and **fractus, -a, -um,** broken (from **frango, frangere, fregi, fractus,** break). The twilight is **crepusculum, -i** (n), as in "crepuscular rays." "Convection" comes from **conveho, convehere, convexi, convectum,** "bring together" or "carry."  
+
+  
+
+C> **Geology**  
+
+The majority of geological terms are based on Greek, not Latin. Geology was born in the mid-19th century when it was very popular to derive technical terms from Greek, as being even more obscure to the layman than Latin is. A few words do come from Latin, however. A *fulgurite* is a fused, glassy, irregular cylinder formed when lightning passes through sand or similar material. **Fulgur, fulguris** (n) is "lightning" and there are other Latin words of the same root referring to this phenomenon. The term *ablation* for "wearing away" comes from **aufero, auferre, abstuli, ablatum,** "take or carry away," based on the important irregular verb **fero,** "carry, bear." Instead of speaking of marsh deposits, one calls them *palustrine* or *paludal*, from **palus, paludis** (f), "marsh."
+
+*Petroleum* is from Gratin or Leek. ***petro***s is rock, while **oleum, -i** (n) is (olive) oil. Thus, "rock oil." The olive tree or the olive itself is **olea, -ae** (f), while **oleo, olere, olui** is "smell" or "smell of."  
+  
+  
+C> **Law**  
+
+**Advoco, advocare, advocavi, advocatum** meant to call someone to one's assistance, or generally to summon. An **advocatus** was a supporter or counsel in a lawsuit, from which the English word "advocate" comes.
+
+In law, Latin provides what is, in effect, a shorthand for a large variety of statments, observations, conditions, procedures, defenses, assertions, and so on, that would otherwise require a more detailed specification. These are often pretty good Latin (unlike the Latin so far mentioned in this lesson), and require the knowledge of cases and inflection that you have been perfecting in this course. They are, however, usually badly mispronounced, and those who speak them generally know no Latin. A list of legal terms follows:  
+  
+- **habeas corpus**: you are to bring the body of the accused before the court, so that the legality of restraint can be proved.  
+- **quo warranto**: with what authority (ablative of instrument).  
+- **absente reo**: the accused (reus, -i) being absent. This is an ablative absolute, a participle and a noun in the ablative case that can appear in a sentence with no grammatical relation with the rest of the sentence (called absolute), and giving a condition.  
+- **bona fide**: with good faith (ablative).  
+- **bona fides**: good faith (nominative; fides, fidei).  
+- **corpus delicti**: body of the crime; evidence that a crime actually was committed.  
+- **cui bono**: to whose benefit; now usually for what good.  
+- **de facto**: from the fact; that is, from actual occurrence.  
+- **de iure**: from the law; that is, legally sanctioned.  
+- **in articulo mortis**: at the point of death; such words are given extra weight in law.  
+- **in forma pauperis**: too poor to pay legal fees.  
+- **in posse**: in possiblity; a child in posse is yet to be born.  
+- **in esse**: in existence; a child in esse has been born.  
+- **in re**: in the matter of.  
+- **inter vivos**: between living persons: a gift, not a legacy.  
+- **intra vires**: within the legal powers of a body.  
+- **ultra vires**: beyond the legal powers of a body.  
+- **ipso facto**: by the fact itself (ablative).  
+- **lex non scripta**: law not written: the common law, law by precedent rather than by statute.  
+- **ius civile**: civil, i.e. Roman, law.  
+- **locus in quo**: the land upon which trespass has been committed.  
+- **mala fide**: with bad faith: fraudulent or sham.  
+- **mens rea**: criminal mind; criminal intent.  
+- **nolle prosequi**: to be unwilling to prosecute, to drop the case. Prosequor is deponent.  
+- **onus probandi**: the burden of proof. **onus, oneris** (n, burden).  
+- **particeps criminis**: partner in crime, accomplice. Note that **particeps, participis** has the plural participes. The word participle comes from here.  
+- **pendente lite**: while the trial (**lis, litis,** f) is going on. Another ablative absolute.  
+- **pleno iure**: with full (**plenus, -a, -um**) right; ablative.  
+- **prima facie**: with first aspect (**facies, faciei**, f); that is, obvious from the appearance.  
+- **pro bono publico**: for the public good (without pay). The "publico" is often omitted.  
+- **pro tempore**: for the time being; temporary. **tempus, temporis** (n).  
+- **res ipsa loquitur**: the thing itself speaks, i.e., calls attention to a fact.  
+- **sine die**: indefinitely, "without day".  
+- **stare decisis**: to stand with things decided; to abide by precedent.  
+- **sub iudice**: still under judgment. **iudex, iudicis** (m, judge).  
+- **suggestio falsi**: a suggestion that a false statement is true, an indirect lie. **Falsi** is genitive.  
+- **volenti non fit iniuria**: a defense that a willing person cannot suffer actionable injury. Volenti, not violenti.  
+  
+In legal terms, consonantal i is usually written j (sub judice, etc.), and the Latin is definitely medieval, not classical. Pronunciation is variable, but often as in English. Just as mathematics was in Greek in the classical world, law was in Latin.  
+  
+  
+C> **Latin Abbreviations In Scholarly Works**  
+
+Latin was the usual international scientific language from medieval times in Western Europe, since the use of the vernacular in written language made communication across borders difficult. It was particularly popular in Germany, and in countries with languages not widely spoken (Scandinavia, Low Countries, Eastern Europe). While this use of Latin died out in the 18th century, Latin abbreviations, usually in footnotes, survived.  
+  
+- **op. cit.**: opere citato (abl.), in the work cited.  
+- **ibid.**: ibidem, ibi-idem, the same 'there.'  
+- **viz.**: medieval abbreviation for videlicet, an adverb meaning clearly, plainly, of course, but now meaning just namely.  
+- **i.e.**: id est, that is; precedes an explanation.  
+- **e.g.**: exempli (gen.) gratia (abl., for the sake of).  
+- **cf.**: confer -- bring together or compare, imperative.  
+- **et seq.**: et sequentia, and following things.  
+- **id.**: idem, the same.  
+- **inf.**: infra, below.  
+- **l.c.**: loco citato, in the place mentioned.  
+- **n.b.**: nota bene, note well.  
+- **ob.**: obiit, he died (used before a date).  
+- **circ.**: circiter, about or near.  
+- **etc.**: et cetera; ceterus, -a, -um: the other, rest, remainder.  
+- **scil.**: scilicet -- of course, obviously, naturally, doubtless.  
+  
+The word **sic**, thus, is used to show that an apparent mistake was actually in the quoted source, not introduced by the present writer. The word **passim**, scattered everywhere, is used for references when the writer feels disinclined to look them all up, or doesn't know where they are. **vel** is used between equally valid alternatives, and means "take your choice."  
+  
+  
+C> **Diplomatic, Business and Miscellaneous**  
+
+The words *status quo* are short for **status quo ante bellum**, "the way things were before the war." An alternative is **uti possidetis**, "as you occupy," meaning that both sides hang on to whatever they have seized. The **sine qua non** is "without which not," an essential demand.
+
+Business letters used to quote dates as *15th ult.*, or *3rd prox.* or *30th inst.*. The abbrevations are for **(mensi) ultimo, proximo, instante** meaning last month, next month and present month. The case is ablative, expressing time when.
+
+*Pro tem* means **pro tempore**, "for the time" or "temporarily," a word that probably came from this expression. Parliamentary procedure uses numerous Latin terms, such as **quorum**, "of which, " standing for some longer expression like "the membership consists of ... *of which* two-thirds must be present for valid action."
+
+The Latin we have studied in this lesson can be attacked with a dictionary and what you know of the cases and their uses. In fact, you should be rather well-equipped to handle Latin phrases by now, and to understand the exact meaning, not an approximation.  
+

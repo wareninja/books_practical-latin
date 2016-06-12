@@ -1,0 +1,57 @@
+# Lesson XIV : More Verbs (Horace) {#lesson-14}  
+  
+## Verb Essentials  :: *A look at the third conjugation, and the use and recognition of moods and tenses*  
+  
+  
+**E pluribus unum** is "one from many," of course. **Annuit Coeptis** means "He (God) has favored the beginnings." This refers to the date in Roman Numerals on the base of the pyramid, MDCCLXXVII or 1776, and "beginnings" are dative ("nodded to the beginnings"). I think it could just as well say, "It refers to the beginnings." **Novus Ordo Saeculorum** is "a new series of centuries," that is, a new era beginning with the founding of the government.  
+  
+{title="**tollo, tollere, sustuli, sublatum** (lift, take up, raise)", width="narrow"}  
+|  **number**  | **singular** |  **plural** |  
+|---------------------------|  
+|  **1**  |  tollo  |  tollimus  |  
+|  **2**  |  tollis  |  tollitis  |  
+|  **3**  |  tollit  |  tollunt  |  
+  
+The third conjugation contains many useful verbs. **Tollo** is typical. Its present tense is shown in the table. Our word toll comes from **tollere**. A toll-gate was a gate with an arm that was raised to allow a vehicle to pass that had paid its toll. Note that the perfect and past participle are formed from another stem. Another example, **capio** is typical of verbs with an -i- in the stem. I have been writing the fourth principal part with -um instead of -us so that you become used to seeing this. When this is done, it is actually an obscure verb form called the *supine*, but all you have to do to get the participle is to change the -um to -us.  
+  
+{title="**capio, capere, cepi, captum** (take, seize)", width="narrow"}  
+|  **number**  | **singular** |  **plural** |  
+|---------------------------|  
+|  **1**  |  capio  |  capimus  |  
+|  **2**  |  capit  |   |  
+|  **3**  |  capit  |  capiunt  |  
+  
+The imperfect is formed with **-ba-: tolliebam,** etc., and **capiebam,** etc. The future is just like the imperfect with no **-ba-**, except that the first person singular is **tollam** or **capiam**. Note that **-i-** is the signal of the present, while -e- is the signal of the future. The passive is formed as you might expect: **tollor, tolleris, tollitur, tollimur, tollimini, tolluntur,** and similarly for **capio**. The passive infinitive is **tolli, capi,** and so forth, the **-er-** having been dropped. The fourth conjugation, of which **audio, audire, audivi, auditus** (hear) is an example, is almost like **capio** of the third. The letter **-i-** always appears. The passive infinitive is **audiri**, however. Audio has already been conjugated in the present in an earlier lesson.
+
+The *subjunctive* is the mood of the verb that is used when its action depends on another verb, or may be subject to chance, will, or uncertain, or even contrary to fact. The subjunctive expresses something as an *idea* rather than as reality. In English, we might say: "if he should come, he would be welcome," or, "if that be true, then it is a pity." Should come and be are both subjunctive. In English, the distinction is not always plain, or even expressed, but in Latin it always is. Latin uses the subjunctive in subordinate clauses like: "he built a bridge in order that he might cross the river." Here built would be indicative, as usual, but cross would be subjunctive to show that it was an idea, the reason for building the bridge conceived in the mind before construction began. In English, we usually use modal helpers like should or might in these cases.
+
+The usual way to make a verb sound subjunctive is to change the stem vowel. He loves is **amat**. He might love is **amet**. We might love is **amemus**. We warn is **monemus**. We might warn is **moneamus**. He lifts is **tollit**. He might lift is **tollat**. There is almost always some other word, such as a subordinating conjunction such as "if" or "unless" or "because" to make the subjunctive sound at home. In the imperfect, the **-ba-** changes to **-re-** in the subjunctive: **amaret**, "he might have loved." Spanish still does pretty much the same thing.
+
+The present subjunctive of **esse** is: **sim, sis, sit, simus, sitis, sint**. The present subjunctive of **ire** is quite regular: **eam, eas, eat, eamus, eatis, eant**.
+
+The *imperative* is the third mood of the verb (indicative and subjunctive are the others) used to give commands. Love! is **ama** or **amate**. Destroy! is **dele** or **delete**. Lift! is **tolle** or **tollite**. Hear! is **audi** or **audite**. Note that the singular imperative is just the infinitive shorn of its **-re**, and the plural is easy to make (just add **-te**). There are also third-person imperatives (let him depart!) but these are rare in normal language. Some common verbs have irregular imperatives, like **fac** (do) from **facio, dic** (say) from **dicere**, and **duc** (lead) from **ducere**.
+
+If you want to suggest to your companions that you do something, the subjunctive of the first person plural is used. **Bibamus!** "let us drink". **Edamus!** "let us eat". **Amemus!** "let us love". This is just a matter of changing a to e or e (or i) to a. **Ne laboremus!** "let us not work". This is the optative form of the subjunctive mood, so the negative is **ne**, not **non**. **Ducamus!** "let us lead". You can also use the subjunctive to tell someone not to do something: **ne edas rosas** -- "don't eat the roses". This is actually close to saying: "one shouldn't eat the roses." The subjunctive can also be used in the third person, instead of the rare regular imperative. For example, **vivit rex** is "the king lives", but **vivat rex** is "long live the king". The familiar word **fiat** is the third person singular of the present subjunctive of **fio, fieri, factus sum,** (become), used as the passive of **facio, facere, feci, factus** (do). Hence it means, "let it be done." **Fiat lux** is "let there be light."  
+  
+{title="**amo, pluperfect**", width="narrow"}  
+|  **number**  | **singular** |  **plural** |  
+|---------------------------|  
+|  **1**  |  amaveram  |  amaveramus  |  
+|  **2**  |  amaveras  |  amaveratis |  
+|  **3**  |  amaverat  |  amaverant  |  
+
+We mentioned quite a while ago that the perfect tense was used for completed past actions, or for normal description of the past, and gave the personal endings and hints on finding the perfect stem. To review, the first, second and fourth conjugations form their perfects very simply, by adding -v- or -u- to the stem, as in **amavi, monui,** and **audivi**. The perfect endings are **-i, -isti, -it, -imus, -istis, -erunt**.  
+
+In classical Latin, v and u were the same letter, remember. You have to remember the perfect in the third conjugation; there are too many ways of forming it to make rules. For practice, play with **veni** (from **venire**, come); **vidi** (from **videre**, see); **vici** (from **vincere**, overcome). To lead is **duco, ducere, duxi, ductum**. **Dux, ducis** (masc) is a "leader". This verb also means "draw" with a pen or stylus.  
+  
+{title="**amo, future perfect**", width="narrow"}  
+|  **number**  | **singular** |  **plural** |  
+|---------------------------|  
+|  **1**  |  amavero  |  amaverimus  |  
+|  **2**  |  amaveris  |  amaveritis |  
+|  **3**  |  amaverit  |  amaverint  |  
+  
+There are also the past perfect or pluperfect tense (I had loved) and the future perfect (I shall have loved), and their conjugation is shown in the tables. Note that the endings are the imperfect and future of **sum**, which makes them easy to recognize. The subjunctive of the pluperfect uses the stem **amavisse-** with the usual personal endings. **Amavisse** is, in fact, the perfect infinitive, "to have loved". You can recognize such infinitives from the ending **-isse**. The passives are periphrastic, using the past participle, as we indicated in a previous lesson. What we have now seen should have given you an appreciation of the Latin verb, and the ability to recognize most of its forms.
+
+Today's phrase is from one of Horace's Odes: **Quid sit futurum cras fuge quaerere**. **Fugio, fugere, fugi, fugitus** means to shun or flee. **Quaerere** is to ask. **Cras** is tomorrow (yesterday was **heri**). **Futurum** is a participle, in fact the future active participle, which is characterized by the **-urus** ending, of the verb **esse**.  
+

@@ -1,0 +1,41 @@
+# Lesson II : Verbs and the First Conjugation (Plautus) {#lesson-2}  
+  
+## Verbs :: *Verbs are the most important words in a language like Latin*  
+  
+  
+In the last lesson, we discovered that Latin makes use of inflection, and that this takes place mainly on the ends of words. There are three kinds of words, which we will call verbs, nouns, and others. Verbs take one class of endings, nouns another, and the others don't change their endings at all. Words are classified by their uses in sentences as *parts of speech*, which we shall separate into verbs, nouns and other. Nouns are often further divided into noun substantives (nouns), noun adjectives (adjectives) and pronouns. Others are likewise broken down into adverbs, prepositions, conjunctions and interjections. We'll talk about all of these later. Verbs are the most important part of speech, because they are capable of expressing a complete thought in themselves. Every sentence has a *subject*, which is what is talked about, and the *predicate*, which is what is said about the subject. A verb combines both.
+
+Verbs include words not only describing actions, but also states, changes and other happenings. When you use a verb, you want to express the following things in connection with the action:  
+  
+- first, the *person* -- I or we (first person), thou or you (second person), he, she or it (third person). Latin does not have any Usteds or Sies or other cringing forms of address, but uses the second person singular to one person, and plural to more than one, whether gods or beggars.  
+
+- Second, *tense* or time: I love (present), I shall love (future), I was loving (imperfect), I have loved (perfect), I had loved (pluperfect), or I shall have loved (future perfect).  
+
+- Third, *voice*: I love (active), I am loved (passive).  
+
+- Fourth, *mood*: I love (indicative), I might love (subjunctive), love! (imperative).  
+
+- Some grammarians make participles a mood: loving.  
+  
+Latin verbs show all these things by changes in the verb stem and endings. The *stem* of a word is what you add the endings to make a functioning word, like snapping a socket (the ending) on a ratchet handle (the stem). Loving is expressed by the stem **ama-**. The present tense (indicative, active) comes out: **amo** (I love), **amas** (you love), **amat** (she loves), **amamus** (we love), **amatis** (you love) and **amant** (they love). Accent the *penult* (next to last syllable) in each form. For the imperfect tense, you stick in a **-ba-** between the stem and ending: **amabam, amabas, amabat, amabamus, amabatis, amabant.** Note that we have **amo**, but **amabam**, which sounds better than **amabao**. For the future tense, you stick in **-bi-: amabo, amabis, amabit, amabimus, amabitis, amabunt.** Again, we have **amabunt**, not **amabint**. Verb forms are usually presented in the form of a table called a *paradigm* to make them easier to comprehend, like the one shown below.  
+  
+
+{title="**Present  Active Indicative**", width="narrow"}  
+| **number** | **singular** | **plural** |  
+|-------------------------------------------|  
+| 1   | amo   | amamus     |  
+| 2   | amas   | amatis     |  
+| 3   | amat   | amant     |  
+  
+
+The accent on a Latin word likes to be as far forward as possible, but can only be on one of the last three syllables. If the last syllable contains a long vowel, it can only be on one of the last two. It got these habits from Greek, and you should not worry much about it now. It is only mentioned so you can pronounce amo, amas, ... correctly. The accent is on the first syllable, except in the first and second person plural, where it is drawn to the next to last syllable, or *penult*. That is, **a**mat, but a**ma**mus. All verbs are generally accented like this. The last syllable in a word is called the *ultima*, and the second from last the *antepenult*.  
+  
+Now think of all the loving you can express, whether present, or past, or future, with all kinds of people doing it. A verb can be a real sentence all by itself; no other kind of word can say this. Latin has equivalents for I, we, you, he, and so forth, but they are not necessary because the verb ending shows it all, and are only used to make a point. I is ego, by the way. **ego amo, non tu!** means: it's **I** who love, not you! When you're giving, not loving, the stem is **da-: do, das, dat, ... ;** you can fill in all the rest. What does **dabunt** mean? They will give, correct! See how easy it is? If you want to know, "we" is **nos**, "you" is **tu** or **vos**. "He", "she" and "it" are **is, ea,** and **id**. In the plural, they are **ei, eae,** or **ea**, depending on their gender.  
+  
+What you are doing here is called *conjugating* the verb (marrying it with its endings). **Amo** and **do** are verbs of the first conjugation, distinguished by the **-a-** in the stem, and all first conjugation verbs behave the same way. A verb is generally named by giving its first person singular present active indicative (whew!), ending in -o. Indicative refers to the *mood* of the verb; the indicative is used to state a fact. Some additional verbs to practice on are: **sto** (stand), **fraudo** (cheat), **tempto** (touch), **nato** (swim), **postulo** (demand), **flagro** (blaze), **neco** (kill), **purgo** (clean) and **basio** (kiss). Note that you can often guess the meanings pretty well, and Spanish is a help. **Tempto** sounds like "tempt," and this is actually one of its meanings, but the main one is "touch." Many words taken from Latin have a special meaning in English, not the usual meaning of the original Latin word. Watch out for these words that suggest the wrong meaning; they are called *false friends*.  
+  
+The useful verb *to be* does not follow this pattern, but goes off on its own. Fortunately, there are very few such verbs in Latin, but this one is very important. It goes: **sum, es, est, sumus, estis, sunt** (I am) in the present; **eram, eras, erat, eramus, eratis, erant** (I have been) in the imperfect; and **ero, eris, erit, erimus, eritis, erunt** (I shall be) in the future. Try to recognize these forms when you see them. When est or sunt begins a sentence, it usually means "there is" or "there are." **Est hic aqua** means there is water here (**hic**). This sentence is actually from Vitruvius, not my invention.  
+  
+The phrase for this lesson is **aquam e pumici nunc postulas**, again from Plautus. **Aqu-am** is water, but the **-am** shows that it is being acted upon, not acting. e means "out of"; it can also be spelled **ex**. **Pumic-i** is pumice, the frothy rock, and the **-i** shows that it goes with the e placed before it. The **e** is not surprisingly called a *preposition* [**prae**, before; **pono**, place]. **Nunc** is just "now". The final word you should be able to figure out for yourself from what we have studied above. Answer in the next lesson!  
+  
+

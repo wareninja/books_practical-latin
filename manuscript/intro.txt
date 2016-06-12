@@ -1,0 +1,120 @@
+  
+{frontmatter}
+  
+I>   
+I> **Latin** For Mountain Men  
+I> *A short course in practical Latin*  
+I>   
+I> *Based on short lessons in learning Latin, by Dr Elizabeth R. Tuttle (Professor of Engineering, University of Denver)*  
+I> Online lessons are publicly available at [this website](http://mysite.du.edu/~etuttle/classics/latin/learnlat.htm)  
+I>    
+I> This ebook edition has been produced by voluntary contributions.  
+I> *Crafting for Sharing by [Zeus Baba](http://www.ZeusBaba.com)*   
+I>    
+ 
+   
+# Introduction  
+  
+**Ave amice.** Here are two dozen short lessons on learning Latin designed for "mountain men" (and women: montani montanaeque), engineers, philosophers, and anyone else looking for entertainment and with lots of free time by the campfire. My course is quite different from Peter Jones' Learn Latin (New York: Barnes and Noble, 1997), but it is just as devoted to interesting you in Latin. If my course doesn't please, by all means have a look at Jones' book, which is published by, and available at, Barnes and Noble in the US. Elsewhere on this site, I have suggestions for the more formal study of Latin and Greek. There is also a huge amount of material available to you on the web and elsewhere.  
+  
+Another excellent supplement is Alexander and Nicholas Humez's *Latin for People -- Latina pro Populo* (Boston: Little, Brown & Co., 1976). The best aspects of this book are its vocabulary, that answers are given to all the exercises, and its witty presentation. Bears populate the earlier lessons, as in this account. Unfortunately, there is no actual classical Latin in it, and the exercises include such useful phrases as: "A chamber pot is not a suitable place for a pear tree." Nevertheless, such exercises are entertaining and useful, though I do not use them very much. All long vowels are marked, which I do not do because it is inconvenient in HTML, and also because real Latin does not do it. The authors also give explanations in terms of Indo-European, an imaginary language, which are worth reading but should be taken with a grain of salt. The brothers Humez also claim the genitive plural of **mare** is **marium**, which it ought to be according to modern linguists' rules, but is not. **Marum** is the only attested form.  
+  
+As Alexander Humez will inform you, Latin is an Indo-European language, and gives a kind of history that is often elaborated, but is pure wind. Linguists would almost claim to know the Indo-European flag, and the history of its people, but there is really nothing there, not even the Caucasian origin of the race. All that they have are existing (including classical) languages, and from this they construct fables about how they must have originated, like the tale of how the elephant got his trunk. It is a good story, with much intelligent reasoning, but it is just a story and one can learn no *causes* from it. No Indo-European survives, and no appropriate wanderings are historically attested. Scraps of information are swept together into a heap that it is hoped will pass for a science. *How* languages change with time is especially obscure, though *what* is well-described. The Romans thought Latin descended from Greek, but it did not, it is merely cognate. Modern "romance" languages are not evolved forms of Latin, but created languages that existed in parallel with Latin. Each has its peculiar ontogeny, which is mainly unknown. Anglo-Saxon is a Germanic language, but English, not being Anglo-Saxon or any evolution of it, is not. English was created by people who spoke Anglo-Saxon (and other tongues), however, so the similarity is not unreasonable. In fact, such classifications are largely useless and devoid of meaning. At least so I believe.  
+  
+My explicit aim in this course is to enable you to decipher short Latin phrases, such as the Latin names, abbreviations, and nomenclature in biology, astronomy, medicine, law, and scholarly work. I can't help but mention that school and scholar are from Greek *schole*, spare time, and that student is from *studium*, zeal. These lessons are meant to be done in your spare time, and enjoyed. I don't expect you to memorize, but only to recognize, and look up if you don't. I explain some tricks about learning, including some things students do that are perfectly useless for the purpose, besides being unpleasant.  
+  
+I have used real Latin, written by native speakers, throughout the course, rather than the doubtful stuff created by our contemporaries, especially me. Toward the end of the course there are some more extended selections from authors not usually included in Latin courses, the engineers Vitruvius and Frontinus, who are both educated and intelligent men with interesting things to say. A song from Carmina Burana is translated, that you can hear sung in Latin in a recent CD by Charlotte Church. I have made a special effort to show you the power and beauty of Latin by these examples. Latin has existed for about three millenia, and has changed steadily, but has remained Latin. The Latin in these lessons is that of the first century, regarded by those whose opinions may be valued as the purest and most pleasing, which is why it is called classic.  
+  
+You need nothing else than these lessons, and a little enthusiasm, to learn serious Latin. An almost essential reference for any further work is a Latin dictionary, and a small one will do excellently. I have Langenscheidt's *Pocket Latin Dictionary* myself for daily use. You should write a lot; this is a help to learning--it is not just making a record, and is extremely profitable. Keep some kind of notebook. It is better to study regularly in small amounts, say an hour, than to study long hours at widely separated times. The reason is once again in the way we learn. It need hardly be said that I have only included here what I think is most important for the time and effort available, and for the aims of the course.  
+  
+In April 2001 the course was revised, and many errors and misprints were corrected. I have recently revised the Greek and Euclid pages elsewhere on this site with help from an interested person, and have been appalled at the number of errors and misprints that he discovered that got by me. That course is now in pretty good shape, and I hope that Latin for Mountain Men could also be less erroneous. If you notice any errors or misprints, I would be grateful to hear about them, together with any suggestions you may have for improvements.  
+  
+The name of the course, which is rather frivolous, actually seems to appeal to some people, so I shall retain it, and try to use it to make the course more entertaining.  
+  
+  
+C> **~ Dr Elizabeth R. Tuttle ~**  
+C> *Professor of Engineering, University of Denver*  
+  
+  
+# Lessons Overview  
+  
+[Lesson I : Encouragement and the Plan (Plautus)](#lesson-1)  
+What Are We Going To Do? :: We get started by saying what inflection is and means  
+  
+[Lesson II : Verbs and the First Conjugation (Plautus)](#lesson-2)  
+Verbs :: Verbs are the most important words in a language like Latin  
+  
+[Lesson III : Nouns and the First Declension (Vulgate)](#lesson-3)  
+Nouns :: Nouns are easier to handle than verbs  
+  
+[Lesson IV : Adjectives and the Second Declension (diploma)](#lesson-4)  
+Adjectives and the Second Declension :: Many adjectives are declined according to the first and second declensions  
+  
+[Lesson V : Prepositions, Adverbs, and Conjunctions (Juvenal)](#lesson-5)  
+Other Words :: Prepositions, adverbs and conjunctions  
+  
+[Lesson VI : Review and Pronunciation (Sallust)](#lesson-6)  
+Review and Pronunciation :: A time to look back  
+  
+[Lesson VII : Third Declension (Terence)](#lesson-7)  
+Third Declension :: The third declension is the big one  
+  
+[Lesson VIII : This, That, and Who(Vergil)](#lesson-8)  
+This, That, and Who :: Introducing pronouns, relative and demonstrative, and comments on word order  
+  
+[Lesson IX : Questions(Vergil)](#lesson-9)  
+Questions :: How to ask questions, and all about personal pronouns  
+  
+[Lesson X : Word Transformations (Cicero)](#lesson-10)  
+Word Transformations :: Words can change meaning or become different parts of speech  
+  
+[Lesson XI : Passive Thoughts (Caesar)](#lesson-11)  
+Passive Thoughts :: We meet a new voice, the passive, as well as the perfect tense and the principal parts of a verb  
+  
+[Lesson XII : Review and Deponents (Cicero)](#lesson-12)  
+Review and Deponents :: Suggestions on useful study and review, plus
+deponent verbs and objects in any case  
+  
+[Lesson XIII : More Nouns (USMoney)](#lesson-13)  
+Noun Essentials :: More things that are useful to know about nouns, including the fourth and fifth declensions  
+  
+[Lesson XIV : More Verbs (Horace)](#lesson-14)  
+Verb Essentials :: A look at the third conjugation, and the use and recognition of moods and tenses  
+  
+[Lesson XV : Numbers (Caesar)](#lesson-15)  
+Numbers :: All kinds of numbers, the future active participle, gladiators, money, time and the supine  
+  
+[Lesson XVI : Comparisons(Livy)](#lesson-16)  
+Comparisons :: Comparison of adjectives and adverbs, and saying yes or no  
+  
+[Lesson XVII : Ablative Absolute and Some Irregulars (Suetonius)](#lesson-17)  
+Ablative Absolute and Some Irregulars :: Also includes Vespasian, Spanish, facio, and the troubles of 78-79  
+  
+[Lesson XVIII : Review and Final Sentences(Cicero)](#lesson-18)  
+Review and Final Sentences :: After the review–compound sentences and impersonal verbs  
+  
+[Lesson XIX : Syntax](#lesson-19)  
+Syntax :: “Syntax” is from Greek, and means “putting together”  
+  
+[Lesson XX : Professional Latin](#lesson-20)  
+Professional Latin :: Latin surrounds us in the professions and sciences  
+  
+[Lesson XXI : Carmina Burana](#lesson-21)  
+Carmina Burana :: Medieval poems from Bavaria, set to music by Carl Orff  
+  
+[Lesson XXII : Vitruvius](#lesson-22)  
+Vitruvius :: Vitruvius wrote in Latin to reach practical men who had little
+Greek. His book was the construction manual used by builders of Gothic cathedrals  
+  
+[Lesson XXIII : Frontinus](#lesson-23)  
+Frontinus :: Readings on military strategy and the water supply of Rome. Roman names  
+  
+[LessonXXIV : Vale Atque Ave](#lesson-24)  
+Vale Atque Ave :: You are now prepared to advance on your own  
+  
+[Appendix : Overview of Verb Conjugation](#final-appendix)  
+Overview of Verb Conjugation :: Knowing personal endings, tense signs and stems will enable you to decode most verbs  
+  
+  
+
+

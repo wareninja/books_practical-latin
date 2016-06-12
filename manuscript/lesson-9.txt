@@ -1,0 +1,49 @@
+# Lesson IX : Questions (Vergil) {#lesson-9}  
+  
+## Questions :: *How to ask questions, and all about personal pronouns*  
+  
+  
+The fragment of Vergil (also spelled Virgil) was too short to scan as poetry, but if the **est** were not at the end, it would screw up the poetry, as well as being clumsy. In high school Latin, **est** always went in the middle, where it belonged as a copulative (connecting) verb. In set phrases, verbs like **est** are often omitted. For example: **homo homini lupus**. I will let you figure this one out, since you have all the tools to so. (Cases!) the proverb, from Plautus, is all too true in our mountains.
+
+ï¿½How do you ask questions in Latin? The question mark is a late invention (in Greek it is ";"). In fact, punctuation itself is rather late. First used with Greek, it gradually found its way into Latin, probably by late classical times, and started by separating sentences the way we do now. Earlier, just space was used, and not much of that. Sometimes even words were not separated, just sentences, and later when words were separated, the ends of sentences were not specially distinguished. We really do not know the history of punctuation, since manuscripts are perishable (especially paper ones) and all we have are medieval ones, naturally copied with the punctuation of the time. Monuments do not necessarily show how words were written on papyrus. In Latin, questions are distinguished by question words, interrogatives, and by the intonation of the voice.
+
+"Who or which" is **quis**, and "what" is **quid**. All the other cases are like the relative, **qui**. In fact, "what person?" is expressed **qui homo**. The trick is the relative comes first with nothing to relate. We do this in English, so it should not be hard. You use the masculine forms, since the antecedent is of indefinite sex. "Whose?" is **cuius, cuia, cuium**. Do you recall that motion is expressed by the ablative? Therefore, **quo** means "where?", or better "whither?". "Why?" is **cur** or **quare**. (i.e. **qua-re**, "by what thing"). "When?" is **quando**. "Where?" is **ubi** or **quo** (case!). "How many?" is **quot**. "How much?" is **quantus**. This you have to decline to agree with the noun, if you use it with a noun. Just "how?" is **quo modo**. (case again! **modus, -i** -- way). Most interrogatory words begin with **qu-**, just as such words commonly begin with wh- in English. With all these interrogatives, you are now equipped to be a reporter for a Latin paper.
+
+An ordinary declarative sentence can be made interrogative by adding the particle **-ne** or something similar to this to the word central to the question, normally the verb. When meeting a person in a bar, **estne femina**? might be useful. Or, **habetne cultrum**? Why not? is **quidni**?, a useful phrase to remember.
+
+**Nonne** is like saying "isn't it?" in English. If you expect a negative answer instead, start the question with **num**. **Num ursus es**? means "You aren't a bear, are you?" Answer--"**Non sum**, No, I'm not!" **Nonne ursa es**? means "You are a bear, aren't you?" Answer--"Growl!" We will take up answering questions in [Lesson 16](#lesson-16), but it should be said here that Latin had no general words like "yes" and "no." **Ita** (so), **certe** (surely), **vero** (truly), **sic** (thus) and similar give a positive answer and **minime** (leastly), **haud** (by no means) or **immo** (quite the contrary) are negative. **Non** meant **non est**, and was not as general as our "no." Generally, you just repeated a short form of the question as affirming or denying.
+
+The pronouns he, him, she, her, it, they, and them are often needed. In addition to this use, they are weak demonstratives, not as strong as **hic** or **ille**. All the cases are given in the following table. Look over the table so you can recognize these words when you meet them. When used with a noun, they really are a lot like the English the: **is ursus, ea puella, id nomen**. Used alone, they can emphasize or contrast subjects of verbs, but most often are used as objects of verbs. Note that the forms are almost the same in all genders except in nominative and accusative.  
+  
+  
+{title="**is, ea, id (he, she, it)**", width="default"}  
+|    | **singular** |    |    |  **plural** |    |    |  
+|---------------------------------------|  
+| **case** | **masc** | **fem** |  **neut** | **masc** | **fem** |  **neut** |  
+| **nom** |  is  |  ea  |  id  |  ii, ei, i  |  eae  |  ea  |  
+| **gen**  |  eius  |  eius  |  eius  |  eorum  |  earum  |  eorum  |  
+| **dat**  |  ei  |  ei  |  ei  |  iis, eis, is  |  iis, eis, is  |  iis, eis, is  |  
+| **acc**  |  eum  |  eam  |  id  |  eos  |  eas  |  ea  |  
+| **abl**  |  eo  |  ea  |  eo  |  iis, eis, is  |  iis, eis, is  |  iis, eis, is  |  
+  
+  
+The first and second person personal pronouns are shown in the table below, as well as the reflexive pronoun (himself, herself, itself). The possessive pronouns and adjectives are: **meus, -a, -um; noster, nostra, nostrum; tuus, -a, -um; vester, vestra, vestrum**. These can either modify nouns or stand alone (like any adjective). They usually follow the noun they modify.  
+  
+  
+{title="**ego, tu**", width="default"}  
+|    | **singular** |    |  **plural** |    |    |  
+|---------------------------------------|  
+| **case** | **1** | **2** |  **1** | **2** | **reflex** |  
+| **nom** |  ego  |  tu  |  nos  |  vos  |  --  |  
+| **gen**  |  mei  |  tui  |  nostri  |  vestri  |  sui  |  
+| **dat**  |  mihi  |  tibi  |  nobis  |  vobis  |  sibi  |  
+| **acc**  |  me  |  te  |  nos  |  vos  |  se  |  
+| **abl**  |  me  |  te  |  nobis  |  vobis  |  se  |  
+  
+  
+**Filus meus, filia mea** are my son, my daughter. How do you say: "He loves his daughter well."? *tama enib mailif mauS*. Say "They loved their sons well." *tnabama eneb soilif souS*. How about "She loves herself too well?" *tama es simin aE*. The reflexive pronoun does not show gender; that is done by its antecedent.
+
+At the beginning of the Aeneid, Vergil wonders at Juno's anger with the words: **tantaene animis caelestibus irae**?. **Tantus** means how much; **animum** is mind; **caelestis, caeleste** means heavenly; **ira, irae** is wrath. There is no obvious verb, so it is probably an elliptic (omitted) **est** (or **sunt**, here). The case of the middle words is dative, not ablative, and is a new use of the dative for us, possession or reference. (as in that is the leg to the chair). This is a rather *hard* phrase, so I apologize. It is, however, *real* Latin.  
+
+  
+
